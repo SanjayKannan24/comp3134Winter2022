@@ -1,0 +1,20 @@
+Definition of Server port :
+    Any server machine makes its services available to the Internet using numbered ports, one for each service that is available on the server.
+
+Server port range : 
+    The minimum range of ports that can be set is 255.
+
+Bits : 
+    16
+
+10 Common server ports : 
+    Port 20 and 21 - FTP
+    Port 22  - SSH
+    Port 25 - SMTP
+    Port 53 - DNS
+    Port 80 - HTTP
+    Port 123 - NTP
+    Port 179 - BGP
+    Port 443 - HTTPS
+    Port 500 - ISAKMP
+    Port 3389 - RDP
