@@ -1,0 +1,425 @@
+1. google.com
+
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T15:39:04+0000
+Creation Date: 1997-09-15T07:00:00+0000
+Registrar Registration Expiration Date: 2028-09-13T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Name Server: ns4.google.com
+Name Server: ns3.google.com
+Name Server: ns2.google.com
+Name Server: ns1.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-01-24T10:39:29+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to email@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+--
+***********************************************
+2. Facebook.com
+
+Domain Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+Updated Date: 2021-10-18T18:07:40Z
+Creation Date: 1997-03-29T05:00:00Z
+Registrar Registration Expiration Date: 2031-03-30T04:00:00Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: email@registrarsafe.com
+Registrar Abuse Contact Phone: +1.6503087004
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Facebook, Inc.
+Registrant Street: 1601 Willow Rd 
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax: +1.6505434800
+Registrant Fax Ext:
+Registrant Email: email@fb.com
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Facebook, Inc.
+Admin Street: 1601 Willow Rd 
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Phone Ext:
+Admin Fax: +1.6505434800
+Admin Fax Ext:
+Admin Email: email@fb.com
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Facebook, Inc.
+Tech Street: 1601 Willow Rd 
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext:
+Tech Fax: +1.6505434800
+Tech Fax Ext:
+Tech Email: email@fb.com
+Name Server: C.NS.FACEBOOK.COM
+Name Server: B.NS.FACEBOOK.COM
+Name Server: A.NS.FACEBOOK.COM
+Name Server: D.NS.FACEBOOK.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-01-24T15:30:04Z <<<
+
+Search results obtained from the RegistrarSafe, LLC WHOIS database are
+provided by RegistrarSafe, LLC for information purposes only, to assist
+users in obtaining information concerning a domain name registration record.
+The information contained therein is provided on an "as is" and "as available"
+basis and RegistrarSafe, LLC does not guarantee the accuracy or completeness
+of any information provided through the WHOIS database.  By submitting a WHOIS query,
+you agree to the following: (1) that you will use any information provided through
+the WHOIS only for lawful purposes; (2) that you will comply with all ICANN rules
+and regulations governing use of the WHOIS; (3)  that you will not use any information
+provided through the WHOIS to  enable, or otherwise cause the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail (i.e., spam); or
+(4) that you will not use the WHOIS to enable or otherwise utilize high volume,
+automated, electronic processes that apply to or attach to RegistrarSafe, LLC or
+its systems. RegistrarSafe, LLC reserves the right to modify these terms
+at any time and to take any other appropriate actions, including but not limited to
+restricting any access that violates these terms and conditions. By submitting this
+query, you acknowledge and agree to abide by the foregoing terms, conditions and policies.
+
+For more information on Whois status codes, please visit
+    https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+************************************************
+3. Amazon.ca
+
+Domain Name: amazon.ca
+Registry Domain ID: D237-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2021-07-16T04:00:08Z
+Creation Date: 2000-09-19T18:44:39Z
+Registry Expiry Date: 2024-07-16T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 16390820-CIRA
+Registrant Name: Amazon Technologies, Inc. TMA499121
+Registrant Organization:
+Registrant Street: PO Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 91423
+Registrant Country: US
+Registrant Phone: +1.2062664064
+Registrant Phone Ext:
+Registrant Fax: +1.2062667010
+Registrant Fax Ext:
+Registrant Email: email@amazon.com
+Registry Admin ID: 16310044-CIRA
+Admin Name: David C Arnett
+Admin Organization: Amazon Technologies, Inc. TMA499121
+Admin Street: PO Box 8102
+Admin City: Reno
+Admin State/Province: NV
+Admin Postal Code: 91423
+Admin Country: US
+Admin Phone: +1.2062664064
+Admin Phone Ext:
+Admin Fax: +1.2062667010
+Admin Fax Ext:
+Admin Email: email@amazon.com
+Registry Tech ID: 16310044-CIRA
+Tech Name: David C Arnett
+Tech Organization: Amazon Technologies, Inc. TMA499121
+Tech Street: PO Box 8102
+Tech City: Reno
+Tech State/Province: NV
+Tech Postal Code: 91423
+Tech Country: US
+Tech Phone: +1.2062664064
+Tech Phone Ext:
+Tech Fax: +1.2062667010
+Tech Fax Ext:
+Tech Email: email@amazon.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.p31.dynect.net
+Name Server: ns2.p31.dynect.net
+Name Server: pdns1.ultradns.net
+Name Server: pdns3.ultradns.org
+Name Server: pdns4.ultradns.org
+Name Server: pdns5.ultradns.info
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2022-01-24T15:43:14Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2022 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+************************************************
+
+4. Zoom.ca
+
+Domain Name: zoom.ca
+Registry Domain ID: D67005-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.rebel.ca
+Updated Date: 2021-03-18T05:03:54Z
+Creation Date: 2001-02-01T17:07:45Z
+Registry Expiry Date: 2022-02-01T05:00:00Z
+Registrar: Rebel.ca Corp.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 29061910-CIRA
+Registrant Name: AutoPlanet Group Inc.
+Registrant Organization:
+Registrant Street: 30 Van Kirk Drive
+Registrant City: Brampton
+Registrant State/Province: ON
+Registrant Postal Code: L7A2Y4
+Registrant Country: CA
+Registrant Phone: +1.9054541434
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@performanceautogroup.ca
+Registry Admin ID: 29066112-CIRA
+Admin Name: Steven Alizadeh
+Admin Organization: AutoPlanet Group Inc.
+Admin Street: 30 Van Kirk Drive
+Admin City: Brampton
+Admin State/Province: ON
+Admin Postal Code: L7A2Y4
+Admin Country: CA
+Admin Phone: +1.9054541434
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@performanceautogroup.ca
+Registry Tech ID: 29066112-CIRA
+Tech Name: Steven Alizadeh
+Tech Organization: AutoPlanet Group Inc.
+Tech Street: 30 Van Kirk Drive
+Tech City: Brampton
+Tech State/Province: ON
+Tech Postal Code: L7A2Y4
+Tech Country: CA
+Tech Phone: +1.9054541434
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: email@performanceautogroup.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: dns.rebel.ca
+Name Server: dns2.rebel.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2022-01-24T21:09:58Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2022 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+*************************************************
+
+5. Microsoft.ca
+
+Domain Name: microsoft.ca
+Registry Domain ID: D1179485-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.cscglobal.com
+Updated Date: 2021-10-12T04:00:29Z
+Creation Date: 2000-09-23T19:51:11Z
+Registry Expiry Date: 2022-10-12T04:00:00Z
+Registrar: CSC Corporate Domains (Canada) Company
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R695946-CIRA
+Registrant Name: Microsoft Canada Inc.
+Registrant Organization:
+Registrant Street: 1950 Meadowvale Blvd
+Registrant City: Mississauga
+Registrant State/Province: ON
+Registrant Postal Code: L5N8L9
+Registrant Country: CA
+Registrant Phone: +1.9055680434
+Registrant Phone Ext:
+Registrant Fax: +1.4259367330
+Registrant Fax Ext:
+Registrant Email: email@internationaladmin.com
+Registry Admin ID: C2144698-CIRA
+Admin Name: Benjamin Orndorff
+Admin Organization: Microsoft Canada Inc.
+Admin Street: 1950 Meadowvale Blvd
+Admin City: Mississauga
+Admin State/Province: ON
+Admin Postal Code: L5N8L9
+Admin Country: CA
+Admin Phone: +1.9055680434
+Admin Phone Ext:
+Admin Fax: +1.4259367330
+Admin Fax Ext:
+Admin Email: email@internationaladmin.com
+Registry Tech ID: C2144700-CIRA
+Tech Name: MSN Hostmaster
+Tech Organization: Microsoft Corporation
+Tech Street: One Microsoft Way
+Tech City: Redmond WA
+Tech State/Province: AL
+Tech Postal Code: 98052
+Tech Country: US
+Tech Phone: +1.4258828080
+Tech Phone Ext:
+Tech Fax: +1.4259367329
+Tech Fax Ext:
+Tech Email: email@microsoft.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1-07.azure-dns.com
+Name Server: ns2-07.azure-dns.net
+Name Server: ns3-07.azure-dns.org
+Name Server: ns4-07.azure-dns.info
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2022-01-24T21:10:47Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2022 Canadian Internet Registration Authority, (http://www.cira.ca/)

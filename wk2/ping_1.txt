@@ -1,0 +1,10 @@
+sanjaykannan389@ubuntu:~$ ping google.com -w 5
+PING google.com (172.217.165.14) 56(84) bytes of data.
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=1 ttl=120 time=1.91 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=2 ttl=120 time=1.70 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=3 ttl=120 time=1.84 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=4 ttl=120 time=1.81 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=5 ttl=120 time=1.84 ms
+--- google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 1.702/1.819/1.906/0.066 ms
