@@ -1,0 +1,28 @@
+sudo tcpdump -XX -i ens4
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on ens4, link-type EN10MB (Ethernet), capture size 262144 bytes
+^C23:58:54.959198 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723
+: Flags [P.], seq 1878147363:1878147571, ack 789616055, win 501, options [nop,nop,TS val 1840152366 ecr 3440482015]
+, length 208
+        0x0000:  4201 0abc 0001 4201 0abc 0002 0800 4510  B.....B.......E.
+        0x0010:  0104 c68f 4000 4006 5289 0abc 0002 23eb  ....@.@.R.....#.
+        0x0020:  f222 0016 a2fb 6ff2 4123 2f10 95b7 8018  ."....o.A#/.....
+        0x0030:  01f5 21c2 0000 0101 080a 6dae 7f2e cd11  ..!.......m.....
+        0x0040:  96df b7b1 ad59 3a90 fbe3 8d49 4f07 aa1b  .....Y:....IO...
+        0x0050:  32a9 3352 943a d6c3 67cf cf57 6233 0e5e  2.3R.:..g..Wb3.^
+        0x0060:  7618 74e8 002f 1ba9 ca0c 28c8 3ca6 36f3  v.t../....(.<.6.
+        0x0070:  3688 3699 4ea1 ee44 2177 4fa7 e9fc 3e95  6.6.N..D!wO...>.
+        0x0080:  0044 4199 0b54 633e cc42 30da 26a7 1024  .DA..Tc>.B0.&..$
+        0x0090:  0e4b 6a9e e54d 2bba cc4f 49cf 2bb0 1b4c  .Kj..M+..OI.+..L
+        0x00a0:  671c e080 c949 44cd 1049 fd1b 0473 07b1  g....ID..I...s..
+        0x00b0:  b17a 5bb6 89db 3198 73c4 0b06 bca5 6707  .z[...1.s.....g.
+        0x00c0:  2556 3245 919c 3d61 9e91 fcee da45 e5c5  %V2E..=a.....E..
+        0x00d0:  4e48 9a12 e82a 45fc 62ba 42e2 189f 2c24  NH...*E.b.B...,$
+        0x00e0:  4c3f 55f6 32a1 d014 9391 e3f8 3acb 75c0  L?U.2.......:.u.
+        0x00f0:  cc74 a106 7e70 13f9 786f f5c1 43d4 43a2  .t..~p..xo..C.C.
+        0x0100:  0dfe 801f abd7 06d5 b9ee d4da 6150 b151  ............aP.Q
+        0x0110:  dcbf                                     ..
+1 packet captured
+14 packets received by filter
+0 packets dropped by kernel

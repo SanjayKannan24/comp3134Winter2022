@@ -1,0 +1,48 @@
+sudo tcpdump -i ens4
+
+
+
+
+Flags [.], ack 123264, win 1984, options [nop,nop,TS val 3439671312 ecr 1839341600], length 0
+23:45:24.201470 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 130608:130896, ack 321, win 501, options [nop,nop,TS val 1839341608 ecr 3439671312], length 288
+23:45:24.201535 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 130896:131392, ack 321, win 501, options [nop,nop,TS val 1839341608 ecr 3439671312], length 496
+23:45:24.203395 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 124048, win 1984, options [nop,nop,TS val 3439671313 ecr 1839341602], length 0
+23:45:24.203425 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 131392:131680, ack 321, win 501, options [nop,nop,TS val 1839341610 ecr 3439671313], length 288
+23:45:24.203562 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 131680:132176, ack 321, win 501, options [nop,nop,TS val 1839341610 ecr 3439671313], length 496
+23:45:24.203572 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 124832, win 1984, options [nop,nop,TS val 3439671314 ecr 1839341602], length 0
+23:45:24.204425 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 125616, win 1984, options [nop,nop,TS val 3439671314 ecr 1839341603], length 0
+23:45:24.204449 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 132176:132672, ack 321, win 501, options [nop,nop,TS val 1839341611 ecr 3439671314], length 496
+23:45:24.206249 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 126192, win 1984, options [nop,nop,TS val 3439671316 ecr 1839341605], length 0
+23:45:24.206268 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 132672:133168, ack 321, win 501, options [nop,nop,TS val 1839341613 ecr 3439671316], length 496
+23:45:24.206833 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 126976, win 1984, options [nop,nop,TS val 3439671317 ecr 1839341605], length 0
+23:45:24.206852 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 133168:133664, ack 321, win 501, options [nop,nop,TS val 1839341613 ecr 3439671317], length 496
+23:45:24.207948 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 128256, win 1981, options [nop,nop,TS val 3439671318 ecr 1839341606], length 0
+23:45:24.207968 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 133664:134160, ack 321, win 501, options [nop,nop,TS val 1839341614 ecr 3439671318], length 496
+23:45:24.208085 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 129040, win 1984, options [nop,nop,TS val 3439671318 ecr 1839341607], length 0
+23:45:24.208094 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 134160:134656, ack 321, win 501, options [nop,nop,TS val 1839341615 ecr 3439671318], length 496
+23:45:24.208615 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 129824, win 1984, options [nop,nop,TS val 3439671319 ecr 1839341607], length 0
+23:45:24.208635 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 134656:135152, ack 321, win 501, options [nop,nop,TS val 1839341615 ecr 3439671319], length 496
+23:45:24.208881 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 130608, win 1984, options [nop,nop,TS val 3439671319 ecr 1839341608], length 0
+23:45:24.208892 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 135152:135648, ack 321, win 501, options [nop,nop,TS val 1839341615 ecr 3439671319], length 496
+23:45:24.209083 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 131392, win 1984, options [nop,nop,TS val 3439671319 ecr 1839341608], length 0

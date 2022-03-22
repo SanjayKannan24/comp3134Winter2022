@@ -1,0 +1,30 @@
+sudo tcpdump -i ens4 src 76.70.97.237
+
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on ens4, link-type EN10MB (Ethernet), capture size 262144 bytes
+00:13:54.128460 IP bras-base-toroon4321w-grc-60-76-70-97-237.dsl.bell.ca.61294 > ubuntu-server.northamerica-northea
+st2-a.c.named-flag-335620.internal.http: Flags [S], seq 3240514773, win 64240, options [mss 1452,nop,wscale 8,nop,n
+op,sackOK], length 0
+00:13:54.134134 IP bras-base-toroon4321w-grc-60-76-70-97-237.dsl.bell.ca.61294 > ubuntu-server.northamerica-northea
+st2-a.c.named-flag-335620.internal.http: Flags [.], ack 3464454040, win 515, length 0
+00:13:54.135132 IP bras-base-toroon4321w-grc-60-76-70-97-237.dsl.bell.ca.61294 > ubuntu-server.northamerica-northea
+st2-a.c.named-flag-335620.internal.http: Flags [P.], seq 0:431, ack 1, win 515, length 431: HTTP: GET / HTTP/1.1
+00:13:54.141320 IP bras-base-toroon4321w-grc-60-76-70-97-237.dsl.bell.ca.61294 > ubuntu-server.northamerica-northea
+st2-a.c.named-flag-335620.internal.http: Flags [.], ack 3478, win 515, length 0
+00:13:54.256206 IP bras-base-toroon4321w-grc-60-76-70-97-237.dsl.bell.ca.61294 > ubuntu-server.northamerica-northea
+st2-a.c.named-flag-335620.internal.http: Flags [P.], seq 431:814, ack 3478, win 515, length 383: HTTP: GET /icons/u
+buntu-logo.png HTTP/1.1
+00:13:54.262136 IP bras-base-toroon4321w-grc-60-76-70-97-237.dsl.bell.ca.61294 > ubuntu-server.northamerica-northea
+st2-a.c.named-flag-335620.internal.http: Flags [.], ack 7101, win 515, length 0
+00:13:54.388184 IP bras-base-toroon4321w-grc-60-76-70-97-237.dsl.bell.ca.61294 > ubuntu-server.northamerica-northea
+st2-a.c.named-flag-335620.internal.http: Flags [P.], seq 814:1187, ack 7101, win 515, length 373: HTTP: GET /favico
+n.ico HTTP/1.1
+00:13:54.433140 IP bras-base-toroon4321w-grc-60-76-70-97-237.dsl.bell.ca.61294 > ubuntu-server.northamerica-northea
+st2-a.c.named-flag-335620.internal.http: Flags [.], ack 7592, win 513, length 0
+00:13:59.403155 IP bras-base-toroon4321w-grc-60-76-70-97-237.dsl.bell.ca.61294 > ubuntu-server.northamerica-northea
+st2-a.c.named-flag-335620.internal.http: Flags [.], ack 7593, win 513, length 0
+^C
+9 packets captured
+9 packets received by filter
+0 packets dropped by kernel

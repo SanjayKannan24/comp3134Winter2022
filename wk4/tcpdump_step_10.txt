@@ -1,0 +1,26 @@
+sudo tcpdump -i ens4 port 22
+
+
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on ens4, link-type EN10MB (Ethernet), capture size 262144 bytes
+00:10:10.155326 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 1879013283:1879013491, ack 789623159, win 501, options [nop,nop,TS val 1840827562 ecr 3441157214], 
+length 208
+00:10:10.163060 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 208, win 5708, options [nop,nop,TS val 3441157273 ecr 1840827562], length 0
+00:10:11.054389 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 208:720, ack 1, win 501, options [nop,nop,TS val 1840828461 ecr 3441157273], length 512
+00:10:11.054521 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 720:992, ack 1, win 501, options [nop,nop,TS val 1840828461 ecr 3441157273], length 272
+00:10:11.056134 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 992:1264, ack 1, win 501, options [nop,nop,TS val 1840828463 ecr 3441157273], length 272
+00:10:11.057341 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 1264:1536, ack 1, win 501, options [nop,nop,TS val 1840828464 ecr 3441157273], length 272
+00:10:11.058518 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 1536:1808, ack 1, win 501, options [nop,nop,TS val 1840828465 ecr 3441157273], length 272
+00:10:11.060605 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 1808:2080, ack 1, win 501, options [nop,nop,TS val 1840828467 ecr 3441157273], length 272
+00:10:11.062067 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 720, win 5707, options [nop,nop,TS val 3441158172 ecr 1840828461], length 0
+00:10:11.062090 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 

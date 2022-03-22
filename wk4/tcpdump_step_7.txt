@@ -1,0 +1,21 @@
+sudo tcpdump -r 0001.pcap
+
+
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+00:04:24.799280 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 1878157731:1878157875, ack 789619351, win 501, options [nop,nop,TS val 1840482206 ecr 3440811845], 
+length 144
+00:04:24.806981 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 144, win 5707, options [nop,nop,TS val 3440811917 ecr 1840482206], length 0
+00:04:28.004140 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [P.], seq 1:65, ack 144, win 5707, options [nop,nop,TS val 3440815114 ecr 1840482206], length 64
+00:04:28.004295 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 144:208, ack 65, win 501, options [nop,nop,TS val 1840485411 ecr 3440815114], length 64
+00:04:28.011961 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 208, win 5707, options [nop,nop,TS val 3440815122 ecr 1840485411], length 0
+00:04:29.136894 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [P.], seq 65:129, ack 208, win 5707, options [nop,nop,TS val 3440816247 ecr 1840485411], length 64
+00:04:29.137094 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 208:272, ack 129, win 501, options [nop,nop,TS val 1840486544 ecr 3440816247], length 64
+00:04:29.144778 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 272, win 5707, options [nop,nop,TS val 3440816255 ecr 1840486544], length 0

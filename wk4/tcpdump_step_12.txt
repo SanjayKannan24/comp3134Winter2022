@@ -1,0 +1,31 @@
+sudo tcpdump -i ens4 dst 76.70.97.237
+
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on ens4, link-type EN10MB (Ethernet), capture size 262144 bytes
+00:15:25.579236 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.http > bras-base-toroon4321
+w-grc-60-76-70-97-237.dsl.bell.ca.61294: Flags [R], seq 3464461632, win 0, length 0
+00:15:25.579427 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.http > bras-base-toroon4321
+w-grc-60-76-70-97-237.dsl.bell.ca.61376: Flags [S.], seq 4121219101, ack 3361047508, win 65320, options [mss 1420,n
+op,nop,sackOK,nop,wscale 7], length 0
+00:15:25.585396 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.http > bras-base-toroon4321
+w-grc-60-76-70-97-237.dsl.bell.ca.61376: Flags [.], ack 550, win 507, length 0
+00:15:25.586488 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.http > bras-base-toroon4321
+w-grc-60-76-70-97-237.dsl.bell.ca.61376: Flags [P.], seq 1:3478, ack 550, win 507, length 3477: HTTP: HTTP/1.1 200 
+OK
+00:15:30.591775 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.http > bras-base-toroon4321
+w-grc-60-76-70-97-237.dsl.bell.ca.61376: Flags [F.], seq 3478, ack 550, win 507, length 0
+00:15:33.546460 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.http > bras-base-toroon4321
+w-grc-60-76-70-97-237.dsl.bell.ca.61376: Flags [.], ack 551, win 507, length 0
+00:15:33.547484 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.http > bras-base-toroon4321
+w-grc-60-76-70-97-237.dsl.bell.ca.61378: Flags [S.], seq 2573429853, ack 162617971, win 65320, options [mss 1420,no
+p,nop,sackOK,nop,wscale 7], length 0
+00:15:33.553429 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.http > bras-base-toroon4321
+w-grc-60-76-70-97-237.dsl.bell.ca.61378: Flags [.], ack 550, win 507, length 0
+00:15:33.554527 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.http > bras-base-toroon4321
+w-grc-60-76-70-97-237.dsl.bell.ca.61378: Flags [P.], seq 1:3478, ack 550, win 507, length 3477: HTTP: HTTP/1.1 200 
+OK
+^C
+9 packets captured
+9 packets received by filter
+0 packets dropped by kernel

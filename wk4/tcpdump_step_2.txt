@@ -1,0 +1,19 @@
+sudo tcpdump -c 5 -i ens4
+
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on ens4, link-type EN10MB (Ethernet), capture size 262144 bytes
+23:53:11.575310 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh > 35.235.242.34.41723: 
+Flags [P.], seq 1870850211:1870850419, ack 789587079, win 501, options [nop,nop,TS val 1839808982 ecr 3440138629], 
+length 208
+23:53:11.576005 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.58410 > metadata.google.int
+ernal.domain: 10750+ [1au] PTR? 34.242.235.35.in-addr.arpa. (55)
+23:53:11.583007 IP 35.235.242.34.41723 > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.ssh: 
+Flags [.], ack 208, win 1984, options [nop,nop,TS val 3440138693 ecr 1839808982], length 0
+23:53:11.825642 IP metadata.google.internal.domain > ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.in
+ternal.58410: 10750 ServFail 0/0/1 (55)
+23:53:11.825774 IP ubuntu-server.northamerica-northeast2-a.c.named-flag-335620.internal.58410 > metadata.google.int
+ernal.domain: 10750+ PTR? 34.242.235.35.in-addr.arpa. (44)
+5 packets captured
+17 packets received by filter
+0 packets dropped by kernel
